@@ -1,0 +1,63 @@
+html {
+  background-color:#dbd6cf;
+}
+
+ol{
+  list-style-type:none;
+  padding:0;
+}
+
+.roman {
+    list-style-type: lower-roman;
+    line-height: 1.5rem;
+}
+
+ul {
+  list-style-type:circle;
+}
+
+a {
+  color:#713837;
+  line-height: 1.5rem;
+}
+
+a:hover {
+  color:red;
+}
+
+p {
+  font-style:italic;
+  font-size:1.5rem;
+  padding:0 30px;
+}
+
+.quote{
+  font-size: 0.7rem;
+  text-align: right;
+  color: #79756f;
+}
+
+strong{
+  color: #79756f;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:#79756f;
+}
+
+header{
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:#79756f;
+}
+
+dl{
+  line-height: 1.5rem;
+}
+
+dt{
+  font-weight:600;
+}
