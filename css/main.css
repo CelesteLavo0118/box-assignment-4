@@ -41,14 +41,7 @@ strong{
   color: #79756f;
 }
 
-
-h1, h2, h3 {
-  font-family: 'Bevan', normal;
-  font-weight: 400;
-  color:#79756f;
-}
-
-header{
+h2, h3 {
   font-family: 'Bevan', normal;
   font-weight: 400;
   color:#79756f;
@@ -60,4 +53,46 @@ dl{
 
 dt{
   font-weight:600;
+}
+
+header{
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:white;
+  background-color: #79756f;
+}
+
+h1{
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:white;
+  text-align:center;
+}
+
+a{
+  background-color: #79756f;
+  display: block;
+}
+
+nav{
+  text-align:center;
+  margin:0;
+}
+
+nav ol{
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li{
+  display:inline;
+}
+
+nav a{
+  display:inline-block;
+  padding: 0.5em 0.75em;
+  background-color: #703838;
+  text-decoration: none;
+  color:white;
 }
