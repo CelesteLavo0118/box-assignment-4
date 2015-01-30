@@ -2,6 +2,11 @@ html {
   background-color:#dbd6cf;
 }
 
+body{
+  font-family: arial, normal;
+}
+
+
 ol{
   list-style-type:none;
   padding:0;
@@ -29,12 +34,14 @@ p {
   font-style:italic;
   font-size:1.5rem;
   padding:0 30px;
+  font-family: times, normal;
 }
 
 .quote{
   font-size: 0.7rem;
   text-align: right;
   color: #79756f;
+  font-family: times, normal;
 }
 
 strong{
@@ -67,6 +74,7 @@ h1{
   font-weight: 400;
   color:white;
   text-align:center;
+  padding: 0;
 }
 
 a{
@@ -95,4 +103,6 @@ nav a{
   background-color: #703838;
   text-decoration: none;
   color:white;
+  font-family: arial, normal;
+  border-radius:5px;
 }
