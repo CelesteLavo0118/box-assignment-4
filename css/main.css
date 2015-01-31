@@ -127,9 +127,16 @@ img{
   width: 95%;
   display: block;
   margin: 0 auto;
+}
 
-  border: 0.15rem solid #bcb9b2;
-  padding: 0.5rem;
-  padding-bottom: 3rem;
-  border-radius:7px;
+figure{
+    border: 0.15rem solid #bcb9b2;
+    padding: 0.5rem;
+    padding-bottom: 3rem;
+    border-radius:7px;
+}
+
+.caption{
+  text-align:center;
+  font-style: italic;
 }
