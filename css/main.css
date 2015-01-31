@@ -67,6 +67,7 @@ header{
   font-weight: 400;
   color:white;
   background-color: #79756f;
+  padding:0;
 }
 
 h1{
@@ -105,4 +106,30 @@ nav a{
   color:white;
   font-family: arial, normal;
   border-radius:5px;
+}
+
+footer{
+  font-family: 'Bevan', normal;
+  font-weight: 400;
+  color:white;
+  background-color: #79756f;
+}
+
+footer h2{
+  color:#dbd6cf;
+}
+
+footer ul{
+  font-family: arial, normal;
+}
+
+img{
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+
+  border: 0.15rem solid #bcb9b2;
+  padding: 0.5rem;
+  padding-bottom: 3rem;
+  border-radius:7px;
 }
